@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "宇宙と長野",
+  "base_artist": "岡崎体育",
+  "createdAt": "2026-02-28T12:14:24.373436Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "宇宙と長野",
+      "artist": "岡崎体育",
+      "has_synced": false,
+      "path": "select/pl_01_宇宙と長野_岡崎体育.txt"
+    }
+  ]
+}
